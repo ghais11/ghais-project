@@ -1,0 +1,20 @@
+
+/*Ändra bakgrundsfärg*/
+body {
+  background-color: lightblue;
+}
+/*textfärg och position*/
+h1 {
+  color: white;
+  text-align: center;
+}
+p {
+	color: black;
+	text-align: center;
+	
+/*font och storlek*/
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+bnj
