@@ -1,11 +1,10 @@
-
 /*Ändra bakgrundsfärg*/
 body {
   background-color: lightblue;
 }
 /*textfärg och position*/
 h1 {
-  color: white;
+  color: black;
   text-align: center;
 }
 p {
@@ -17,4 +16,3 @@ p {
   font-family: verdana;
   font-size: 20px;
 }
-bnj
